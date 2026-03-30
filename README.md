@@ -1,0 +1,2 @@
+# Codigos de generacion de escenarios de precipitaciones #
+Segun multiples fuentes se recomienda el uso de la distribucion Gamma-Thom para la caracterizacion de las precipitaciones en un tiempo determinado, para aceptar los escenarios que mas se acercan a la distribucion original se usa una prueba de bondad por KS y de comparativa, junto con otro codigo que brinda las rachas de sequias y lluvias y su clasificacion, junto con fechas.
